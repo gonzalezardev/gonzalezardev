@@ -8,7 +8,7 @@ where I am gaining solid knowledge in various technologies, which I detail below
 * JavaScript
 * HTML
 * CSS
-* React
+* React JS
 * SQL
 * JAVA
 * C++
